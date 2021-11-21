@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/hudoinovski" target="blank"><img src="https://img.shields.io/twitter/follow/hudoinovski?logo=twitter&style=for-the-badge" alt="hudoinovski" /></a> </p>
 
-- 🌱 I’m currently learning **nodejs**
+- 🔭 I’m currently working on **Getir&Patika.dev Node.js Bootcamp**
+
+- 🌱 I’m currently learning **nodejs,react**
 
 - 👨‍💻 All of my projects are available at [mahiruslu.github.io](mahiruslu.github.io)
 
@@ -15,12 +17,18 @@
 
 - 📄 Know about my experiences [mahiruslu.github.io](mahiruslu.github.io)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hudoinovski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hudoinovski" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahiruslu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahiruslu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8364716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8364716" height="30" width="40" /></a>
 <a href="https://instagram.com/hudoin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hudoin" height="30" width="40" /></a>
+<a href="https://medium.com/@mahir.uslu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahir.uslu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc2x2ykrj0omu75dtpp2il3g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc2x2ykrj0omu75dtpp2il3g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,3 +37,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahiruslu&show_icons=true&locale=en&layout=compact" alt="mahiruslu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahiruslu&show_icons=true&locale=en" alt="mahiruslu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahiruslu&" alt="mahiruslu" /></p>
