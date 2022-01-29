@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [mahiruslu.github.io](mahiruslu.github.io)
 
 - 📄 Read my articles [https://medium.com/@mahir.uslu](https://medium.com/@mahir.uslu)
-- 
+
 - 📫 How to reach me **mhrsl07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
