@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/hudoinovski" target="blank"><img src="https://img.shields.io/twitter/follow/hudoinovski?logo=twitter&style=for-the-badge" alt="hudoinovski" /></a> </p>
 
-- 🌱 I’m currently learning **nodejs,react, react-native**
+- 🌱 I’m currently learning **nodejs, react, react-native**
 
 - 👨‍💻 All of my projects are available at [mahiruslu.github.io](mahiruslu.github.io)
-
-- 📄 Know about my experiences [mahiruslu.github.io](mahiruslu.github.io)
 
 - 📄 Read my articles [https://medium.com/@mahir.uslu](https://medium.com/@mahir.uslu)
 
