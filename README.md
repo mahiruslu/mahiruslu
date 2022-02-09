@@ -28,7 +28,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahiruslu&row=1&column=4" alt="mahiruslu" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahiruslu&show_icons=true&locale=en&layout=compact" alt="mahiruslu" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahiruslu&show_icons=true&locale=en&layout=compact" alt="mahiruslu" /></p>-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahiruslu&show_icons=true&locale=en" alt="mahiruslu" /></p>
 
