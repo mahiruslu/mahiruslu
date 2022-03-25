@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahir</h1>
 <h3 align="center">Lifetime learner, code addict. I'm interesting front-end,mobile and back-end development.</h3>
 
-<p align="center"> <a href="https://twitter.com/hudoinovski" target="blank"><img src="https://img.shields.io/twitter/follow/hudoinovski?logo=twitter&style=for-the-badge" alt="hudoinovski" /></a> 
+<p align="center"> <a href="https://twitter.com/_hudoin" target="blank"><img src="https://img.shields.io/twitter/follow/_hudoin?logo=twitter&style=for-the-badge" alt="_hudoin" /></a> 
  <img src="https://komarev.com/ghpvc/?username=mahiruslu&label=Profile%20views&color=0e75b6&style=flat" alt="mahiruslu" /> </p>
 
 - 🌱 I’m currently learning **nodejs, react, react-native**
