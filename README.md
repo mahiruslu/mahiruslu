@@ -12,8 +12,8 @@
 
 - 📫 How to reach me **mhrsl07@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/hudoinovski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hudoinovski" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahiruslu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahiruslu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8364716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8364716" height="30" width="40" /></a>
@@ -28,6 +28,6 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahiruslu&show_icons=true&locale=en&layout=compact" alt="mahiruslu" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahiruslu&show_icons=true&locale=en" alt="mahiruslu" />
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahiruslu&show_icons=true&locale=en" alt="mahiruslu" />
  
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahiruslu&" alt="mahiruslu" /></p>
