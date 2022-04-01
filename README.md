@@ -7,17 +7,15 @@
 - 🌱 I’m currently learning **nodejs, react, react-native**
  </p>
 <p align="center">
-
 - 👨‍💻 All of my projects are available at [mahiruslu.github.io](mahiruslu.github.io)
  </p>
 <p align="center">
-
 - 📄 Read my articles [https://medium.com/@mahir.uslu](https://medium.com/@mahir.uslu)
  </p>
 <p align="center">
-
 - 📫 How to reach me **mhrsl07@gmail.com**
  </p>
+ 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/hudoinovski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hudoinovski" height="30" width="40" /></a>
