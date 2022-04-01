@@ -5,10 +5,16 @@
  <img src="https://komarev.com/ghpvc/?username=mahiruslu&label=Profile%20views&color=0e75b6&style=flat" alt="mahiruslu" /> </p>
 <p align="center">
 - 🌱 I’m currently learning **nodejs, react, react-native**
+ </p>
+<p align="center">
 
 - 👨‍💻 All of my projects are available at [mahiruslu.github.io](mahiruslu.github.io)
+ </p>
+<p align="center">
 
 - 📄 Read my articles [https://medium.com/@mahir.uslu](https://medium.com/@mahir.uslu)
+ </p>
+<p align="center">
 
 - 📫 How to reach me **mhrsl07@gmail.com**
  </p>
